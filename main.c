@@ -1,3 +1,6 @@
 int main (void){
-    printf("Hola mundo")
+    printf("Hola mundo");
+
+    //arregle el issue
+    printf("Cerrar ventana");
 }
